@@ -48,7 +48,6 @@ I enjoy crafting clean architectures, thoughtful UI/UX, and reliable web experie
 
 <div align="center">
 
-🪶 _“Building in public — one clean commit at a time.”_
 
 </div>
 
