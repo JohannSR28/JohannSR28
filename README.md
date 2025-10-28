@@ -15,6 +15,6 @@ Currently creating **JobTrackAI**, an AI-powered tool that turns your inbox into
 **Tools:** Vercel / GitHub Actions / Docker  
 
 🌐 **Connect with Me**  
-[Website](https://johannsorou.com) • [LinkedIn](https://linkedin.com/in/johannsourou)
+[Website]([https://johannsorou.com](https://johannsourou.vercel.app/)) • [LinkedIn]([https://linkedin.com/in/johannsourou](https://www.linkedin.com/in/johann-sourou-8b351129a/))
 
 > “Building in public — one clean commit at a time.”
