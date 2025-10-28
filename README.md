@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hi 👋 I'm Johann Sourou  
 
-<!--
-**JohannSR28/JohannSR28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💡 **About Me**  
+I'm a full-stack web developer from Montréal, passionate about building clean, reliable, and user-centric applications.  
+Currently creating **JobTrackAI**, an AI-powered tool that turns your inbox into a clear job-tracking pipeline.
 
-Here are some ideas to get you started:
+🚀 **What I'm Up To**  
+🧠 Learning advanced TypeScript & Supabase architecture  
+⚙️ Building SaaS projects with Next.js & Node.js  
+📚 Documenting my journey publicly on LinkedIn
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 **Tech Stack**  
+**Frontend:** React / Next.js / Tailwind CSS  
+**Backend:** Node.js / Express / Supabase / PostgreSQL  
+**Tools:** Vercel / GitHub Actions / Docker  
+
+🌐 **Connect with Me**  
+[Website](https://johannsorou.com) • [LinkedIn](https://linkedin.com/in/johannsourou)
+
+> “Building in public — one clean commit at a time.”
