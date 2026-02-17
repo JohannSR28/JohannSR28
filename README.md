@@ -5,9 +5,9 @@
 I’m a **Full-Stack Developer** based in Montreal, focused on building scalable web applications with clean architecture and premium user experiences. With a background in **Mathematics and Computer Science (UdeM)**, I combine algorithmic logic with modern design principles to solve real-world problems.
 
 Currently:
-- **Founder & Lead Developer – JobTrackAI** (AI-Powered Career Tool)
-- **Recent Graduate** – Université de Montréal (Math & CS)
-- **Open to Opportunities** – Seeking Full-Stack or Frontend roles
+- **Full-Stack Developer – Tactoria** (Early-stage Startup)
+- **Founder & Lead Developer – JobTrackAI** (SaaS)
+- **B.Sc. Graduate** – UdeM (Excellence Scholarship Recipient)
 
 ---
 
@@ -15,44 +15,58 @@ Currently:
 
 ### 💼 JobTrackAI – Smart Application Tracker
 **Founder & Full-Stack Developer**
-👉 [jobtrackai.com](https://jobtrackai-three.vercel.app/login-page)
+👉 [Live App](https://jobtrackai-three.vercel.app/login-page)
 
-An AI-powered dashboard that transforms the chaos of job hunting into clarity.
+An AI-powered SaaS that automates career tracking, utilizing NLP & Gmail API to categorize over 1,000 emails per session.
 
 **Core Features I Built**
-- AI-driven email parsing to auto-detect application status
-- Kanban-style board for visual application tracking
-- Smart metrics dashboard for analyzing response rates
-- Secure authentication and real-time data syncing
-- Modern, responsive UI with dark mode support
+- **AI Automation:** Real-time email parsing to detect application status.
+- **Zero Trust Security:** Secure environment using Supabase RLS and OAuth 2.0.
+- **Performance:** Enhanced UI responsiveness by 60% via React Query.
+- **Analytics:** Dynamic dashboards with Charts.js for strategic insights.
 
 **Tech:**
-Next.js • TypeScript • Supabase (PostgreSQL) • Tailwind CSS • OpenAI API • Vercel
+Next.js • TypeScript • Supabase • OpenAI API • Tailwind CSS • Vercel
+
+---
+
+### ☕ Café Sans Fil – Inventory Management System
+**Mobile & Backend Developer**
+
+A professional inventory ecosystem developed to increase operational efficiency by 40% for a local business.
+
+- **Mobile App:** Built with Flutter for cross-platform compatibility.
+- **Backend Security:** Granular JWT authentication & bcrypt hashing.
+- **Optimization:** Reduced backend response times by 25% via MongoDB indexing.
+
+**Tech:**
+Flutter • Dart • Node.js • MongoDB • REST API
 
 ---
 
 ## 🛠 Tech Stack
 
-**Core**
-- JavaScript • TypeScript • Python
-- React • Next.js • HTML5 • CSS3
+**Core Languages**
+- TypeScript • JavaScript (ES6+) • Java • Python • Dart • SQL
 
-**Data & Backend**
-- Node.js • Express • PostgreSQL
-- Supabase • REST APIs • Docker
+**Frontend & Mobile**
+- React • Next.js • Flutter • Tailwind CSS • HTML5/CSS3
 
-**Design & Tools**
-- UI/UX • Tailwind CSS • Figma
-- Git • GitHub Actions • Vercel
+**Backend & Data**
+- Node.js • Express • PostgreSQL • MongoDB
+- Supabase • REST APIs • JavaFX
+
+**DevOps & Tools**
+- Docker • Git • GitHub Actions (CI/CD) • Jira • Vercel
 
 ---
 
 ## 🎯 Focus Areas
 
-- SaaS Architecture & Development
-- AI Integration in Web Apps
-- Responsive & Accessible UI/UX
-- Clean Code & Scalable Systems
+- **SaaS Architecture:** Building scalable systems from scratch.
+- **AI Integration:** Leveraging NLP for real-world automation.
+- **Data Security:** Implementing Zero Trust & OAuth protocols.
+- **Performance:** Optimizing render cycles and database queries.
 
 ---
 
