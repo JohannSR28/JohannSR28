@@ -15,7 +15,7 @@ Currently:
 
 ### 💼 JobTrackAI – Smart Application Tracker
 **Founder & Full-Stack Developer**
-👉 [johannsourou.vercel.app](https://johannsourou.vercel.app/)
+👉 [jobtrackai.com](https://jobtrackai-three.vercel.app/login-page)
 
 An AI-powered dashboard that transforms the chaos of job hunting into clarity.
 
@@ -60,7 +60,7 @@ Next.js • TypeScript • Supabase (PostgreSQL) • Tailwind CSS • OpenAI API
 
 - Portfolio: [johannsourou.vercel.app](https://johannsourou.vercel.app/)
 - LinkedIn: [linkedin.com/in/johann-sourou](https://www.linkedin.com/in/johann-sourou-8b351129a/)
-- Email: johannsourou@gmail.com
+- Email: souroujohann82@gmail.com
 
 ---
 
